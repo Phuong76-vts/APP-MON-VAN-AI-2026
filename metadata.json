@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Học Văn AI",
+  "description": "Hệ thống Trợ lý AI tối ưu dành cho giáo viên và học sinh Ngữ văn hỗ trợ thiết kế bài giảng, lập dàn ý chi tiết, luyện đọc hiểu theo Bloom, viết sáng tạo và chấm bài trả điểm rubrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
